@@ -7,3 +7,7 @@ function problem(x){
   if (typeof x === 'number') return 50 * x + 6;
 }
 ```
+#### Sum of angles
+```javascript
+function angle(n) { return a = ( n - 2 ) * 180 }
+```
