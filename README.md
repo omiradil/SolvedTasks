@@ -1,8 +1,9 @@
 # SolvedTasks
-* task 1
+#### Super Duper Easy
+
 ```javascript
-const a = 123;
-//Hello world
-console.log(a);
+function problem(x){
+  if (typeof x === 'string') return "Error";
+  if (typeof x === 'number') return 50 * x + 6;
+}
 ```
-next step
