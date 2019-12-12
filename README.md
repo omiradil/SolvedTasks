@@ -1,4 +1,4 @@
-# SolvedTasks
+# SolvedTasks on Codewars
 #### Super Duper Easy
 
 ```javascript
@@ -16,5 +16,12 @@ function angle(n) { return a = ( n - 2 ) * 180 }
 ```javascript
 function sumStr(a,b) {
   return String(Number(a)+Number(b));
+}
+```
+
+#### Century From Year
+```javascript
+function century(year) {
+  return Math.ceil ( year / 100);
 }
 ```
