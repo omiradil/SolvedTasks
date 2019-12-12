@@ -11,3 +11,10 @@ function problem(x){
 ```javascript
 function angle(n) { return a = ( n - 2 ) * 180 }
 ```
+
+#### Sum The Strings
+```javascript
+function sumStr(a,b) {
+  return String(Number(a)+Number(b));
+}
+```
