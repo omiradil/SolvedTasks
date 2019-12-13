@@ -31,3 +31,10 @@ function century(year) {
   return Math.ceil ( year / 100);
 }
 ```
+
+#### Return Negative
+```javascript
+function makeNegative(num){
+return -Math.abs(num);
+}
+```
