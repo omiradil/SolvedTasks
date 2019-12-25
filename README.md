@@ -79,3 +79,14 @@ function describeAge(age) {
   return "You're a(n) " + (age < 13 ? "kid" : age < 18 ? "teenager" : age < 65 ? "adult" : "elderly")
 }
 ```
+
+
+#### Calculate Two People's Individual Ages
+function getAges(sum,difference){
+   if (difference<0||sum<0) return null;
+   sum=sum/2
+   difference/=2
+   if (sum+difference<0||sum-difference<0) return null;
+   return [sum+difference,sum-difference]
+};
+```
