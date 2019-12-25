@@ -82,6 +82,7 @@ function describeAge(age) {
 
 
 #### Calculate Two People's Individual Ages
+```javascript
 function getAges(sum,difference){
    if (difference<0||sum<0) return null;
    sum=sum/2
