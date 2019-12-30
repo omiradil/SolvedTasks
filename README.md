@@ -98,3 +98,16 @@ function saleHotdogs(n){
   return n<5 ? n=n*100 : n>=5 && n<10 ? n=n*95 : n=n*90;
 }
 ```
+
+#### Basic Mathematical Operations with Switch
+```javascript
+function basicOp(operation, value1, value2)
+{
+  switch(operation){
+    case '+': return value1 + value2;
+    case '*': return value1 * value2;
+    case '-': return value1 - value2;
+    case '/': return value1 / value2;
+  }
+}
+```
