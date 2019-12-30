@@ -91,3 +91,10 @@ function getAges(sum,difference){
    return [sum+difference,sum-difference]
 };
 ```
+
+#### Training JS #7: if..else and ternary operator
+```javascript
+function saleHotdogs(n){
+  return n<5 ? n=n*100 : n>=5 && n<10 ? n=n*95 : n=n*90;
+}
+```
