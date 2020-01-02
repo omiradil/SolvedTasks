@@ -130,3 +130,28 @@ function calculator(a,b,sign){
   return "unknown value";
 }
 ```
+
+#### Sum of the first nth term of Series
+```javascript
+function SeriesSum(n)
+{
+  let sum = 0;
+  for( let i = 0; i < n; i++ ) {
+    sum += (1 / (1 + i * 3))
+  }
+  return sum.toFixed(2)
+}
+```
+
+#### SBeginner Series #3 Sum of Numbers
+```javascript
+function getSum(...range) {
+  const rangeSort = range.sort((a, b) => a - b)
+  if (rangeSort[0] === rangeSort[1]) return rangeSort[0]
+
+  let result = 0
+  for (let i = rangeSort[0]; i <= rangeSort[1]; i++) result += i
+
+  return result
+}
+```
