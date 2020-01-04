@@ -157,10 +157,21 @@ function getSum(...range) {
 ```
 
 #### Power
+   ```javascript
+   function numberToPower(number, power){
+     let r = 1;
+     for (let i=1;i<=power;i++){ r*=number}
+   return r
+   }
+   ```
+   
+#### Draw stairs
 ```javascript
-function numberToPower(number, power){
-  let r = 1;
-  for (let i=1;i<=power;i++){ r*=number}
-return r
+function drawStairs(n) {
+  let s = '';
+  for (let i = 1; i <= n; i++) {
+    s += i === n ? 'I' : 'I\n' + ' '.repeat(i)
+  }
+  return s;
 }
-```
+```   
