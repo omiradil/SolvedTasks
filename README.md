@@ -155,3 +155,12 @@ function getSum(...range) {
   return result
 }
 ```
+
+#### Power
+```javascript
+function numberToPower(number, power){
+  let r = 1;
+  for (let i=1;i<=power;i++){ r*=number}
+return r
+}
+```
