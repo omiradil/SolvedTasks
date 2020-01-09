@@ -220,3 +220,15 @@ return +string;
 }
 ```
 
+#### isReallyNaN
+```javascript
+const isReallyNaN = (val) => {
+    return Number.isNaN(val)
+};
+
+//2nd way to solve
+
+function isReallyNaN(val) {
+  return val != val;
+};
+```
