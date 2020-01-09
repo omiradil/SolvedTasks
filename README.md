@@ -208,3 +208,15 @@ function getPlanetName(id){
     return name;
 }
 ```      
+
+#### Filter the number
+```javascript
+let FilterString = function(value) {
+  let string = '';
+  for(let i = 0; i < value.length; i++){
+  if(!isNaN(value[i])) {string+= value[i];}
+    }
+return +string;
+}
+```
+
