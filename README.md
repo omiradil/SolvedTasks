@@ -232,3 +232,24 @@ function isReallyNaN(val) {
   return val != val;
 };
 ```
+
+#### Invert values
+```javascript
+function invert(array) {
+for ( let i = 0; i < array.length; i++){
+ if (array[i] === 0){
+ continue;
+ } else {
+  array[i] = array[i] * -1;
+  }
+}
+   return array ;
+}
+
+//2nd way to solve
+
+function invert(array) {
+   return array.map(i => 0 - i);
+}
+
+```
