@@ -253,3 +253,20 @@ function invert(array) {
 }
 
 ```
+
+#### Squares sequence
+```javascript
+function squares(x, n) {
+  var result = [];
+
+  for (var i = 0; i < n; i++) {
+    if (i == 0) {
+      result.push(x);
+    }
+    else {
+      result.push(Math.pow(result[i - 1], 2));
+    }
+  }
+  return result;
+}
+```
