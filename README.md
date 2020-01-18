@@ -270,3 +270,14 @@ function squares(x, n) {
   return result;
 }
 ```
+
+#### Square Every Digit
+```javascript
+function squareDigits(num) {
+  const result = String(num)
+    .split('')
+    .map(digit => Math.pow(digit, 2))
+    .join('')
+  return Number(result)
+}
+```
