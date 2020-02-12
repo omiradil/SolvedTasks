@@ -302,5 +302,3 @@ function elevator(left, right, call){
 }
 ```
 
-
-qwwrefgserg
