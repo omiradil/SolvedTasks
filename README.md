@@ -302,4 +302,4 @@ function elevator(left, right, call){
 }
 ```
 
-#### To square(root) o
+#### To 
