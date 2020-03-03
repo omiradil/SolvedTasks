@@ -302,4 +302,4 @@ function elevator(left, right, call){
 }
 ```
 
-Updating your profile with your name, location,
+Updating your profile with 
