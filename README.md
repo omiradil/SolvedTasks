@@ -302,4 +302,4 @@ function elevator(left, right, call){
 }
 ```
 
-Updating your profile with your name, location, and a profile picture helps other GitHu
+Updating your profile with your name, location,
