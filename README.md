@@ -302,4 +302,4 @@ function elevator(left, right, call){
 }
 ```
 
-GitHub is built for collaboration. Set up an organization to 
+GitHub is built for collaboration. Set
