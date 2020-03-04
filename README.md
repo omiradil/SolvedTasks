@@ -302,4 +302,4 @@ function elevator(left, right, call){
 }
 ```
 
-GitHub is built for collaborati
+GitHub is built
