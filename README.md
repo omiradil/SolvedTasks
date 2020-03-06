@@ -302,4 +302,4 @@ function elevator(left, right, call){
 }
 ```
 
-Azure DevOps gives teams access to a wide set of developer services we think you'll love. Plan smarter,
+Azure DevOps gives teams access to a wide set of developer services we
