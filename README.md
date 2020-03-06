@@ -301,3 +301,5 @@ function elevator(left, right, call){
    return  Math.abs(call-left) < Math.abs(call-right) ? 'left' : 'right'
 }
 ```
+
+Azure DevOps gives teams access to a wide set of developer services we think you'll love. Plan smarter,
