@@ -302,6 +302,3 @@ function elevator(left, right, call){
 }
 ```
 
-
-Please click Open Zoom Meetings if you see the system dialog.
-m 
