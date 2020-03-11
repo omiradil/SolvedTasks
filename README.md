@@ -304,4 +304,4 @@ function elevator(left, right, call){
 
 
 Please click Open Zoom Meetings if you see the system dialog.
-If nothing prompts from browser, click here to l
+If nothing prompts from 
