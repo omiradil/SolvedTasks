@@ -301,3 +301,7 @@ function elevator(left, right, call){
    return  Math.abs(call-left) < Math.abs(call-right) ? 'left' : 'right'
 }
 ```
+
+
+Please click Open Zoom Meetings if you see the system dialog.
+If nothing prompts from browser, click here to launch the meeting, or download & run Zoom.
