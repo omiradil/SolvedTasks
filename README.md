@@ -303,4 +303,4 @@ function elevator(left, right, call){
 ```
 
 Working with a team?
-GitHub is built for collaboration. Set up an organization to improve the way your team works together
+GitHub is built for collaboration. Set up an organization 
