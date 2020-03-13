@@ -301,4 +301,10 @@ function elevator(left, right, call){
    return  Math.abs(call-left) < Math.abs(call-right) ? 'left' : 'right'
 }
 ```
+Ребята, а кто-нибудь делал скриншоты лекций Владимира по Java и начало Slenium? Вот прямо был бы очень благодарен, если поделитесь. Или нам Виктор обещал презу предоставить - вроде об этом был какой-то разговор?
+
+
+
+3 replies
+Last reply today at 11:29 AMView thread
 
