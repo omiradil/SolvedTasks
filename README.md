@@ -302,7 +302,6 @@ function elevator(left, right, call){
 }
 ```
 
-Working with a team?
 
 
 
