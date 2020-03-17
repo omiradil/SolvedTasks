@@ -301,7 +301,7 @@ function elevator(left, right, call){
    return  Math.abs(call-left) < Math.abs(call-right) ? 'left' : 'right'
 }
 ```
-Праздник планировался на 5 апреля. Но в связи с обстоятельств
+
 
 
 
