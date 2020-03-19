@@ -303,7 +303,6 @@ function elevator(left, right, call){
 ```
 
 
-1. How long have you been working with the company?
-It’s helpful to understand 
+
 
 
