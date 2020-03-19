@@ -303,7 +303,6 @@ function elevator(left, right, call){
 ```
 
 
-Ребята, а кто делал дом
 
 
 
