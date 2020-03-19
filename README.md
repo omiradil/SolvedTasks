@@ -304,6 +304,6 @@ function elevator(left, right, call){
 
 
 1. How long have you been working with the company?
-It’s helpful to understand the relationship the recruiter holds with the company they’re working
+It’s helpful to understand 
 
 
