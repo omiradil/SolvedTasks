@@ -303,6 +303,7 @@ function elevator(left, right, call){
 ```
 
 
-
+1. How long have you been working with the company?
+It’s helpful to understand the relationship the recruiter holds with the company they’re working for. The longer the two have been connected, the more likely it is the recruiter will have in-depth information on the management styles within the organization, typical company culture, employee treatment, etc.—not to mention their opinion may be highly trusted among the company’s top decision-makers. 
 
 
