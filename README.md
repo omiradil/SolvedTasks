@@ -302,7 +302,7 @@ function elevator(left, right, call){
 }
 ```
 
-@Viktor Bogutskii, Витя, ты тут главный, да? :slightly_smiling_face: можно д
+
 
 
 
