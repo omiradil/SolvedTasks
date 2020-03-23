@@ -302,7 +302,7 @@ function elevator(left, right, call){
 }
 ```
 
-@Viktor Bogutskii, Витя, ты тут главный, да? :slightly_smiling_face: можно добавить в этот чат моих двоих сыновей ь сашу и даню ветушко или этот чат “для избранных
+@Viktor Bogutskii, Витя, ты тут главный, да? :slightly_smiling_face: можно д
 
 
 
