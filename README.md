@@ -302,6 +302,6 @@ function elevator(left, right, call){
 }
 ```
 
-We would like you to fill out a survey to determine if you are eligible for a test cycle with unique requirements. It looks like you’re a potential match for a paid pr
+We would like you to fill out a survey to determine if you are eligible for a test cycle with unique requirements. I
 
 
