@@ -302,6 +302,6 @@ function elevator(left, right, call){
 }
 ```
 
-We would like you to fill out a survey to determine
+
 
 
