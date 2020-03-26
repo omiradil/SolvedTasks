@@ -302,6 +302,6 @@ function elevator(left, right, call){
 }
 ```
 
-GitHub is built for collaboration. 
+GitHub 
 
 
