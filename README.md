@@ -304,5 +304,5 @@ function elevator(left, right, call){
 
 Century From Year
 
---Introduction-- The first century spans from the year 1 up to and i
+--Introduction-- The first century spans 
 
